@@ -3,7 +3,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class question_8 {
+public class question8 {
     
     public static int romanToInt(String s) {
         // map of Roman numerals and their integer values

@@ -1,6 +1,6 @@
 // Write bubble sort program and find O(n), time complexity, and space complexity
 
-public class question_5 {
+public class question5 {
     public static void main(String[] args) {
         // Sample array 
         int[] arr = {64, 34, 25, 12, 22, 11, 90};

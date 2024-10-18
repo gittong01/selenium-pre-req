@@ -3,7 +3,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class question_10 {
+public class question10 {
 
     public static void main(String[] args) {
        

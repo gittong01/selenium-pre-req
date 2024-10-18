@@ -1,7 +1,7 @@
 // Swap two variables without using the third variable
 
 import java.util.Scanner;
-public class question_4 {
+public class question4 {
     public static void main(String[] args) {
         
         // Scanner to take in user input

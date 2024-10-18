@@ -1,7 +1,7 @@
 // Reverse word in a string
 
 import java.util.Scanner;
-public class question_7 {
+public class question7 {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);

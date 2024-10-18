@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class question_9 {
+public class question9 {
 
     // Arrays to store words for numbers
     private static final String[] ones = { 

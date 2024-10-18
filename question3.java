@@ -1,7 +1,7 @@
 // Write Java Program to find the first big, second big, and third-biggest number (Take user input, use scanner function)
 
 import java.util.Scanner;
-public class question_3 {
+public class question3 {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
